@@ -74,4 +74,5 @@ Player.CharacterAdded:Connect(function(newChar)
     end
 end)
 
-print("UI Manager đã sẵn sàng!")
+print("Script turn on/off hitbox, thanks for using")
+print("Dev: Zxki")
